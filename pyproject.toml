@@ -1,6 +1,6 @@
 [project]
 name = "simpleragharshit"
-version = "0.1.0"
+version = "0.1.1"
 description = "My first python package, used to implement simple RAG."
 authors = [
     {name = "Harshit Karnani",email = "harshitkarnani1@gmail.com"}
